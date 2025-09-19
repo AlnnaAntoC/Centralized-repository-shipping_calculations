@@ -1,5 +1,4 @@
  # Here is a new update by AlnnaAntoC
- # Here is another update by AlnnaAntoC
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
